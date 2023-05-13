@@ -21,7 +21,7 @@ export let products = [
         available : false,
         shipping : {
             free : true,
-            price : 4.99,
+            price : 5.99,
             from: "India",
             to : ["USA", "Europe", "Russia","Brazil"],
             duration : "10 giorni"
